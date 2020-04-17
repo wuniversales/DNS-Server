@@ -218,5 +218,15 @@
       "type":"a",
       "name":"syscheck.rc24.xyz",
       "value":"165.227.235.155"
+   },
+   {  
+      "type":"a",
+      "name":"vtp.wapp.wii.com",
+      "value":"164.132.44.106"
+   },
+   {  
+      "type":"a",
+      "name":"rcw.wc24.wii.com",
+      "value":"164.132.44.106"
    }
 ]
